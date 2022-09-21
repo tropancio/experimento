@@ -1,0 +1,21 @@
+
+.App{
+    background:#3ba2ab;
+
+}
+
+a{
+  text-decoration:none !important; 
+  color:black !important;
+}
+a:hover{
+   color:gray !important; 
+}
+
+.tab div{
+  border: solid 0.5px black;
+}
+
+.tab div div{
+  margin: 15px;
+}

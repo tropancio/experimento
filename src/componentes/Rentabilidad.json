@@ -1,0 +1,46 @@
+{
+    "schema": {
+        "fields": [
+            { "name": "Diario", "type": "number" },
+            { "name": "Semanl", "type": "number" },
+            { "name": "Mensual", "type": "number" },
+            { "name": "Trimestal", "type": "number" },
+            { "name": "Anual", "type": "number" }
+        ],
+        "primaryKey": ["index"],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        { "index": "FALABELLA.SN", "Diario": 0.0, "Semanl": 0.0050251256, "Mensual": 0.1016524787, "Trimestal": 0.0783785238, "Anual": -0.2081257796 },
+        { "index": "LTM.SN", "Diario": 3.1237112861, "Semanl": 0.7147755679, "Mensual": -0.7293395797, "Trimestal": -0.8381134846, "Anual": -0.9508760449 },
+        { "index": "CFMITNIPSA.SN", "Diario": 0.0127759085, "Semanl": 0.0219566506, "Mensual": 0.0639736626, "Trimestal": 0.1018262082, "Anual": 0.1274482811 },
+        { "index": "AESANDES.SN", "Diario": 0.0, "Semanl": 0.0002399902, "Mensual": -0.0000799915, "Trimestal": 0.0002399902, "Anual": 0.2668846437 },
+        { "index": "AGUAS-A.SN", "Diario": 0.0335195531, "Semanl": -0.0414507772, "Mensual": -0.0263157895, "Trimestal": 0.2131147541, "Anual": 0.2957638039 },
+        { "index": "ANDINA-B.SN", "Diario": -0.0304851427, "Semanl": -0.0174860608, "Mensual": 0.1000494849, "Trimestal": 0.0554388403, "Anual": 0.0327016293 },
+        { "index": "BCI.SN", "Diario": -0.0068616829, "Semanl": 0.0338345865, "Mensual": 0.0752585527, "Trimestal": 0.0099919624, "Anual": 0.0269153941 },
+        { "index": "BSANTANDER.SN", "Diario": -0.0081080875, "Semanl": 0.005479473, "Mensual": -0.0081080875, "Trimestal": -0.0492227406, "Anual": -0.0397239513 },
+        { "index": "CAP.SN", "Diario": -0.0172303765, "Semanl": 0.0701876303, "Mensual": 0.0558839235, "Trimestal": -0.1517021955, "Anual": 0.0090197908 },
+        { "index": "CCU.SN", "Diario": -0.0073896545, "Semanl": 0.0289855072, "Mensual": -0.0020080321, "Trimestal": -0.0880733945, "Anual": -0.2224203794 },
+        { "index": "CENCOSHOPP.SN", "Diario": 0.0212435501, "Semanl": -0.0507627326, "Mensual": 0.0823267457, "Trimestal": 0.2515083526, "Anual": 0.2505236205 },
+        { "index": "CENCOSUD.SN", "Diario": -0.0036984107, "Semanl": 0.0193050193, "Mensual": 0.1057128045, "Trimestal": 0.0602409639, "Anual": 0.2086640687 },
+        { "index": "CHILE.SN", "Diario": -0.0044627462, "Semanl": 0.0128055699, "Mensual": -0.0057142857, "Trimestal": 0.0175438596, "Anual": 0.1953482814 },
+        { "index": "CMPC.SN", "Diario": -0.011559648, "Semanl": 0.0044126635, "Mensual": -0.0408482526, "Trimestal": 0.1084847355, "Anual": 0.0345415248 },
+        { "index": "COLBUN.SN", "Diario": -0.0229621129, "Semanl": -0.0542343265, "Mensual": 0.0637499809, "Trimestal": 0.3307270908, "Anual": -0.3379285837 },
+        { "index": "CONCHATORO.SN", "Diario": 0.0106480405, "Semanl": 0.0279152508, "Mensual": -0.0635365776, "Trimestal": -0.0708860759, "Anual": -0.090077963 },
+        { "index": "COPEC.SN", "Diario": -0.0164245028, "Semanl": -0.0330537609, "Mensual": -0.0096913014, "Trimestal": 0.0938176137, "Anual": 0.0392430876 },
+        { "index": "ECL.SN", "Diario": -0.0116054159, "Semanl": -0.0199650442, "Mensual": 0.1503826789, "Trimestal": 0.2807017544, "Anual": -0.0285171103 },
+        { "index": "ENELAM.SN", "Diario": 0.00585936, "Semanl": 0.0208126704, "Mensual": 0.0564102564, "Trimestal": 0.1638418079, "Anual": 0.0341586635 },
+        { "index": "ENELCHILE.SN", "Diario": 0.020402273, "Semanl": 0.0663663404, "Mensual": 0.2394414937, "Trimestal": 0.6214611388, "Anual": -0.0458469886 },
+        { "index": "ENTEL.SN", "Diario": -0.0042247468, "Semanl": 0.0126042961, "Mensual": 0.0314647378, "Trimestal": -0.0618421053, "Anual": 0.2011306581 },
+        { "index": "IAM.SN", "Diario": -0.018656042, "Semanl": -0.0192369258, "Mensual": 0.0084267835, "Trimestal": 0.2239615436, "Anual": 0.1015163191 },
+        { "index": "ITAUCORP.SN", "Diario": -0.0024999976, "Semanl": 0.0178571255, "Mensual": 0.0045317539, "Trimestal": 0.0606060395, "Anual": -0.0090608905 },
+        { "index": "MALLPLAZA.SN", "Diario": -0.0090142483, "Semanl": -0.0164388511, "Mensual": 0.0390243902, "Trimestal": 0.1176702265, "Anual": -0.079391943 },
+        { "index": "PARAUCO.SN", "Diario": 0.022034164, "Semanl": -0.0106382979, "Mensual": 0.1204819277, "Trimestal": 0.2125162973, "Anual": 0.0947768055 },
+        { "index": "RIPLEY.SN", "Diario": -0.0000602042, "Semanl": 0.008566764, "Mensual": 0.2187959157, "Trimestal": 0.1140939597, "Anual": 0.1945477816 },
+        { "index": "SECURITY.SN", "Diario": -0.0313349698, "Semanl": -0.0045404382, "Mensual": 0.0699751625, "Trimestal": 0.0723100154, "Anual": 0.168443377 },
+        { "index": "SMU.SN", "Diario": -0.020815227, "Semanl": -0.0134951397, "Mensual": 0.1004699269, "Trimestal": 0.186311632, "Anual": 0.5354466214 },
+        { "index": "SONDA.SN", "Diario": 0.0013611388, "Semanl": -0.0111534426, "Mensual": 0.0362623516, "Trimestal": 0.2628286685, "Anual": 0.0648744809 },
+        { "index": "SQM-B.SN", "Diario": 0.0472680402, "Semanl": 0.0655737705, "Mensual": 0.1243243243, "Trimestal": 0.3367609254, "Anual": 1.3957139181 },
+        { "index": "VAPORES.SN", "Diario": 0.0224000041, "Semanl": 0.0291235822, "Mensual": -0.2037383398, "Trimestal": -0.0705454508, "Anual": 0.2475099855 }
+    ]
+}
